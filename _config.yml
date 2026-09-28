@@ -2,7 +2,7 @@
 # Built with Jekyll and optimized for Obsidian integration
 #
 
-title: "SaeedN"
+title: "Saeed Nikoozadegan"
 subtitle: "Electrical Engineering"
 email: saeed.nikoozadegan@gmail.com
 description: >-
@@ -17,7 +17,7 @@ url: "https://saeednikoozadegan.github.io"  # the base hostname & protocol for y
 
 # SEO settings
 author:
-  name: "Pavel Ievlev"
+  name: "Saeed Nikoozadegan"
   url: "https://saeednikoozadegan.github.io" 
 twitter:
   card: summary

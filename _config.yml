@@ -10,7 +10,7 @@ description: >-
   stochastic analysis, and scientific machine learning.
 
 # Profile photo (add your photo to assets/images/ and update this path)
-profile_photo: "/vault/assets/photo.jpeg"
+profile_photo: "/vault/assets/saeed.jpg"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://saeednikoozadegan.github.io"  # the base hostname & protocol for your site
@@ -24,16 +24,16 @@ twitter:
 logo: /assets/images/favicon.svg
 social:
   name: Pavel Ievlev
-  links:
-    - https://github.com/ievlevpn
-    - https://orcid.org/0000-0003-3329-5741
-    - https://scholar.google.com/citations?user=3z8jrW8AAAAJ
+  # links:
+    # - https://github.com/ievlevpn
+    # - https://orcid.org/0000-0003-3329-5741
+    # - https://scholar.google.com/citations?user=3z8jrW8AAAAJ
 
 # Social links
-github_username: ievlevpn
-orcid: 0000-0003-3329-5741
-scholar: 3z8jrW8AAAAJ
-linkedin:
+# github_username: ievlevpn
+# orcid: 0000-0003-3329-5741
+# scholar: 3z8jrW8AAAAJ
+# linkedin:
 
 # Build settings
 markdown: kramdown
